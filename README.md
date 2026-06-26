@@ -25,9 +25,9 @@ I build software at the intersection of **numerical methods, machine learning, a
 | | |
 |---|---|
 | **PDE solvers & numerical methods** | Generalizable finite-element solvers for stiff, strongly-coupled nonlinear systems; continuation/homotopy methods for robust nonlinear solves; convergence verified via the method of manufactured solutions. |
-| **Scientific machine learning** | Adjoint / reverse-mode gradients for PDE-constrained calibration; neural surrogates; identifiability analysis for mechanism discovery. |
+| **Scientific machine learning** | Adjoint gradients for PDE-constrained calibration; neural surrogates; identifiability analysis for mechanism discovery. |
 | **Quantitative modeling** | Deep hedging, attention-based sequence models, stochastic simulation of market paths, model calibration and out-of-sample validation. |
-| **AI-augmented research** | Multi-agent workflows that plan, verify, and harden scientific-computing work — parallel literature review, multi-model correctness checks, and adversarial GPT critique loops. |
+| **AI-augmented research** | Multi-agent workflows that plan, verify, and harden scientific-computing work — parallel literature review, multi-model correctness checks, and adversarial multi-model critique loops. |
 
 ## Featured projects
 
