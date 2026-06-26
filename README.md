@@ -13,7 +13,7 @@
 
 ---
 
-I build robust numerical software at the intersection of **numerical methods, machine learning, and quantitative modeling**.
+I build software at the intersection of **numerical methods, machine learning, and quantitative modeling**.
 
 - 🔭 **Currently:** Dual BS in Applied Mathematics & Computer Science at Northwestern (GPA 3.95), and a Research Assistant in **Prof. Niall Mangan's group**, building finite-element solvers for stiff nonlinear electrochemical systems.
 - 💼 **Summer 2026:** Trading Intern at **Milliman**, developing an ML-based deep-hedging engine for fixed-indexed-annuity liability books — attention networks trained end-to-end over simulated market paths.
